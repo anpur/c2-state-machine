@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<c2addon>
+	<type>behavior</type>	
+	<name>State Machine</name>	
+	<version>1.0</version>
+	<author>Anton Purin</author>
+	<website>https://github.com/anpur/c2-state-machine</website>
+	<documentation>https://github.com/anpur/c2-state-machine</documentation>
+	<description>Keeps track of state changes and emits events.</description>
+</c2addon>
